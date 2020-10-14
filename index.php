@@ -2,7 +2,7 @@
 //DATABASE
 define('SYSTEM_DBHOSTNAME', 'localhost'); //The hostname of your database server.
 define('SYSTEM_DBUSERNAME', 'root'); //The username used to connect to the database
-define('SYSTEM_DBPASSWORD', ''); //The password used to connect to the database
+define('SYSTEM_DBPASSWORD', '12345678910'); //The password used to connect to the database
 define('SYSTEM_DBDATABASE', 'aca'); //The name of the database you want to connect to
 //SYSTEM INFORMATION
 define('SYSTEM_URL', ''); //(With trailing slash "/")
