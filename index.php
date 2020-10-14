@@ -5,7 +5,7 @@ define('SYSTEM_DBUSERNAME', 'root'); //The username used to connect to the datab
 define('SYSTEM_DBPASSWORD', '12345678910'); //The password used to connect to the database
 define('SYSTEM_DBDATABASE', 'aca'); //The name of the database you want to connect to
 //SYSTEM INFORMATION
-define('SYSTEM_URL', ''); //(With trailing slash "/")
+define('SYSTEM_URL', 'http://142.93.12.66/'); //(With trailing slash "/")
 define('SYSTEM_TABLE_PREFIX', 'aca_'); //Table Prefix
 define('SYSTEM_ENCRYPTION_KEY', 'ACAVLM');
 define('SYSTEM_THEME', 'default');
