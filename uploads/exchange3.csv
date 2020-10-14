@@ -1,0 +1,8 @@
+company,account,amount,date,units,fund
+sec,PAULFSIMPLE,0,8/24/2015,104.978,eq
+sec,PAULFSIMPLE,0,8/24/2015,-81.969,bd
+sec,PAULDSIMPLE,0,8/24/2015,90.393,eq
+sec,PAULDSIMPLE,0,8/24/2015,-70.58,bd
+sec,JAKEFSIMPLE,0,8/24/2015,-138.753,bd
+sec,JAKEFSIMPLE,0,8/24/2015,177.702,eq
+,,,,,

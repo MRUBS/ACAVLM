@@ -1,0 +1,35 @@
+Contract Number, Transaction Amount ,Post Date,Transaction Code,Transaction Units,Participant Name,,Fund ID,
+,,,,,,,,
+1002479695,,3/25/2019,Fee,-1.048,Andrea,Toto,gn,Omega Growth - A
+3903115052,,3/25/2019,Fee,-1.008,John ,Sole,gn,Omega Growth - A
+1004372029,,3/25/2019,Fee,-0.645,William and Jane,Orpen,gn,Omega Growth - A
+8319234200,,3/25/2019,Fee,-5.342,Kenneth and Gail,Fliesser,gn,Omega Growth - A
+3900379150,,3/25/2019,Fee,-1.149,Donna and Gregory,Jawidzik,gn,Omega Growth - A
+,,,,,,,,
+1007034102, 125.00 ,1/15/2019,Purchase,2.678,Linda,Cohen,gn,Omega Growth - A
+1007034102, 125.00 ,2/15/2019,Purchase,2.472,Linda,Cohen,gn,Omega Growth - A
+1007034102, 125.00 ,3/15/2019,Purchase,2.414,Linda,Cohen,gn,Omega Growth - A
+1007034102, 125.00 ,10/15/2018,Purchase,3.227,Linda,Cohen,e3,Opportunity - A
+1007034102, 125.00 ,11/15/2018,Purchase,3.011,Linda,Cohen,e3,Opportunity - A
+1007034102, 125.00 ,12/17/2018,Purchase,2.975,Linda,Cohen,e3,Opportunity - A
+1009178854," (5,000.00)",1/14/2019,Withdrawal,-112.969,Jennifer,Bailey,gn,Omega Growth - A
+1009325401," (50,307.69)",2/23/2019,Withdrawal,-4536.311,Beverly,Messenbrink,e1,Premier Large Company Growth - A
+1009325401," (46,293.20)",2/13/2019,Withdrawal,-15184.283,Beverly,Messenbrink,z1,High Yield Bond - A
+1007009050,#REF!,2/12/2019,Withdrawal,-9101.560,Grace,Marks,mm,Money Market - A
+1004809148," (50,000.00)",3/12/2019,Withdrawal,-1012.966,Shirley,Pomerantz,gn,Omega Growth - A
+1004809148," (7,000.00)",3/26/2019,Withdrawal,-140.252,Shirley,Pomerantz,gn,Omega Growth - A
+1004809148," (50,000.00)",3/12/2019,Withdrawal,-1252.191,Shirley,Pomerantz,e3,Opportunity - A
+1004809148," (57,000.00)",3/26/2019,Withdrawal,-1411.940,Shirley,Pomerantz,e3,Opportunity - A
+1004809148," (65,000.00)",3/12/2019,Withdrawal,-4954.268,Shirley,Pomerantz,e4,Traditional Small Cap Growth - A
+1009162718,#REF!,1/28/2019,Withdrawal,-1070.000,Dennis,Kononuk,mm,Money Market - A
+1009162718,#REF!,2/26/2019,Withdrawal,-1070.000,Dennis,Kononuk,mm,Money Market - A
+1009162718,#REF!,3/26/2019,Withdrawal,-1070.000,Dennis,Kononuk,mm,Money Market - A
+1004207547, (18.00),3/25/2019,Withdrawal,-0.363,Regina,Diemunsch,gn,Omega Growth - A
+3903095695," (4,000.00)",1/2/2019,Withdrawal,-94.406,Shirley,Pomerantz,gn,Omega Growth - A
+3903095695," (9,000.00)",3/26/2019,Withdrawal,-222.938,Shirley,Pomerantz,e3,Opportunity - A
+1005842518,#REF!,1/15/2019,Withdrawal," (1,250.00)",Jacob,Roth,mm,Money Market - A
+1005842518,#REF!,1/15/2019,Withdrawal," (3,000.00)",Jacob,Roth,mm,Money Market - A
+1005842518,#REF!,2/15/2019,Withdrawal," (1,250.00)",Jacob,Roth,mm,Money Market - A
+1005842518,#REF!,2/15/2019,Withdrawal," (3,000.00)",Jacob,Roth,mm,Money Market - A
+1005842518,#REF!,3/15/2019,Withdrawal," (1,250.00)",Jacob,Roth,mm,Money Market - A
+1005842518,#REF!,3/15/2019,Withdrawal," (3,000.00)",Jacob,Roth,mm,Money Market - A

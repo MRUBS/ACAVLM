@@ -1,0 +1,226 @@
+form.niceform1 {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+	width: 500px;
+}
+form.niceform1.full{
+	width:auto;
+}
+form.niceform1 ul {
+	margin: 0px;
+	padding: 0px;
+}
+form.niceform1 li {
+	
+	display: block;
+	list-style-type: none;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	width:490px;
+}
+form.niceform1 li.large{
+	width:375px;
+	float:left;
+}
+form.niceform1 li.medium{
+	width:225px;
+	float:left;
+}
+form.niceform1 li.small{
+	width:150px;
+	float:left;
+}
+form.niceform1 li.mini{
+	width:75px;
+	float:left;
+}
+form.niceform1 ul.checks {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+form.niceform1 ul.checks li {
+	float: left;
+	width: 150px;
+	clear: none;
+}
+form.niceform1 ul.checks li input {
+	float: left;
+}
+form.niceform1 ul.checks li label {
+	display: inline-block;
+	font-size: 11px;
+	width: auto;
+	clear: none;
+	float: none;
+	padding-left: 5px;
+}
+form.niceform1 ul li h3{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: normal;
+	font-size: 16px;
+	color: #0A1423;
+	text-decoration: underline;
+}
+form.niceform1 ul li ul {
+	margin: 0px 0px 0px 10px;
+	padding: 0px;
+}
+form.niceform1 ul li ul li {
+	clear:both;
+}
+form.niceform1 ul li ul li label {
+	float:left;
+	width:250px;
+}
+form.niceform1 label {
+	display: block;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 2px;
+	margin-left: 0px;
+	font-size: 13px;
+	font-weight: bold;
+}
+form.niceform1 .textfield {
+	font-size: 18px;
+	width: 90%;
+}
+form.niceform1 select {
+	font-size: 16px;
+}
+form.niceform1 small {
+	display: block;
+	font-size: 11px;
+	color: #666;
+}
+form.niceform1 .submit input {
+	font-size: 16px;
+	color: #164482;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+/*
+*/
+form.niceform2 {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+form.niceform2 ul {
+	margin: 0px;
+	padding: 0px;
+}
+form.niceform2 li {
+	display: block;
+	list-style-type: none;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+}
+form.niceform2 ul li h3{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: normal;
+	font-size: 16px;
+	color: #0A1423;
+	text-decoration: underline;
+}
+form.niceform2 ul li ul {
+	margin: 0px 0px 0px 10px;
+	padding: 0px;
+}
+form.niceform2 ul li ul li {
+	clear:both;
+}
+form.niceform2 ul li ul li label {
+	float:left;
+	width:250px;
+}
+form.niceform2 label {
+	display: block;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 2px;
+	margin-left: 0px;
+	font-size: 13px;
+	font-weight: bold;
+}
+form.niceform2 .textfield {
+	font-size: 18px;
+	width: 90%;
+}
+form.niceform2 .selectfield {
+	font-size: 16px;
+	font-weight:normal;
+}
+form.niceform2 small {
+	display: block;
+	font-size: 11px;
+	color: #666;
+}
+form.niceform2 .submit input {
+	font-size: 16px;
+	color: #164482;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+form.searchform{
+	position:relative;
+	width:300px;
+	margin:0px;
+	padding:0px;
+	border:none;
+	height:50px;
+}
+form.searchform *{
+	margin:0px !important;
+}
+form.searchform ul{
+	margin:0px;
+	padding:0px;
+}
+form.searchform ul li{
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+form.searchform ul li input{
+	margin:0px;
+}
+form.searchform ul li.submit{
+	position:absolute;
+	right:10px;
+	top:10px;
+}
+form.searchform ul li.submit input{
+	font-size:16px;
+}
+form.searchform ul li.searchfld{
+	position:absolute;
+	right:80px;
+	top:12px;
+	background-color:#020302;
+}
+form.searchform ul li.searchfld input{
+	font-size:16px;
+	width:200px;
+}
+form.searchform ul li.searchfld input:focus{
+	-moz-box-shadow: 0px 0px 5px #000;
+	-webkit-box-shadow: 0px 0px 5px #000;
+	box-shadow: 0px 0px 5px #000;
+}

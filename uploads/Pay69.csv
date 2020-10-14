@@ -1,0 +1,7 @@
+company,account,amount,date,units,fund
+scholars,2000026060,$50.00 ,1/26/2015,$1.17 ,eq
+scholars,2000026060,$50.00 ,2/24/2015,$1.12 ,eq
+scholars,2000026060,25,2/24/2015,0.562,eq
+scholars,2000026060,50,3/24/2015,1.124,eq
+scholars,2000026060,25,3/25/2015,0.569,eq
+,,,,,
