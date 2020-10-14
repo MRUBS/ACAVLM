@@ -155,3 +155,43 @@ ERROR - 2020-10-14 16:58:11 --> Severity: 8192  --> mysql_pconnect(): The mysql 
 ERROR - 2020-10-14 16:58:11 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
 ERROR - 2020-10-14 16:58:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
 ERROR - 2020-10-14 16:58:11 --> Severity: Notice  --> Trying to get property of non-object D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\application\controllers\system.php 1179
+ERROR - 2020-10-14 17:54:01 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 17:54:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:54:02 --> Severity: Warning  --> mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:54:02 --> Unable to connect to the database
+ERROR - 2020-10-14 17:54:13 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 17:54:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:54:13 --> Severity: Warning  --> mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:54:13 --> Unable to connect to the database
+ERROR - 2020-10-14 17:54:15 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 17:54:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:54:15 --> Severity: Warning  --> mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:54:15 --> Unable to connect to the database
+ERROR - 2020-10-14 17:54:49 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 17:54:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:54:50 --> Severity: Warning  --> mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:54:50 --> Unable to connect to the database
+ERROR - 2020-10-14 17:54:51 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 17:54:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:54:51 --> Severity: Warning  --> mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:54:51 --> Unable to connect to the database
+ERROR - 2020-10-14 17:55:09 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 17:55:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:55:12 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 17:55:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:57:09 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 17:57:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:57:09 --> Severity: Warning  --> mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: YES) D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:57:09 --> Unable to connect to the database
+ERROR - 2020-10-14 17:57:29 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 17:57:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:57:32 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 17:57:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:57:32 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 17:57:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 17:57:32 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 17:57:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 18:04:15 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 18:04:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2020-10-14 18:04:15 --> Severity: Notice  --> Only variable references should be returned by reference D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\core\Common.php 243
+ERROR - 2020-10-14 18:04:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\SOFTWARE\INSTALLED\wamp64\www\ACAVLM\core\ci\database\drivers\mysql\mysql_driver.php 88
